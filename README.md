@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[AngularJS]
+[MIT](https://github.com/Berhan123/kodluyoruzilkrepo/blob/main/LICENSE)
